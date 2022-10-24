@@ -1,4 +1,4 @@
-Jia Le License
+MIT License
 
 Copyright (c) 2022 Jia Le (JiaLe0709)
 
